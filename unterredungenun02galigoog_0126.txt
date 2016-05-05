@@ -1,0 +1,48 @@
+Anmerkungon. ;
+
+Der dem Leser hier vorliegende dritta und vierte Τις gohbrt
+ιι don hervorragendsten Leistungen Galilet's. In der Art der
+Absassung dem ersten und zweiten Tage verwandt, finden wir
+hier ein strong geordnotes system der Fallgesetze vor. Der
+Text ist gabundana, und meist lateinisch geschrieben. Die Un-
+
+? tenedungen zwisohen don drei Personen treton ab und zu ein,
+³ sind im Original italienisoh abgefasst und bildon oft willkom-
+
+mene Ergiinzungen ιιιιιι strong gehaltenen Text. Nachstehend
+wollen wir auf dio besonders interessanten Prohleme und deren·
+Lbsungen aufmerksam macheu, alle Haupttheoreme aber in mo·
+dernor analytisoher Form wiedergqben. Manehe Aufgabe ware
+
+worth,¹ der Vergessenheit entzogen und in dio Lehrbfleher auf-
+
+genommen zu werden. Der Docent sowie der Schnler³wird viel-
+
+* faoh Anregung finden, die Lehre vom Fall und von der Wurf-
+
+bewogung zu vertiefen. Erstaunlich erseheint einem die Leistung
+Galilei's‚ wenn man bedenkt, dass auf diesem Gebiete sehleohter-
+dings gar niehts vorlag‚ als irrigo Ansiehten auf Grund ganz un-
+
+* berechtigter Antoritat. Von dem dritten und viorten Tage spe-
+
+ciell sagt Layranqe: »es gehbre ein aussorordontliches
+
+· Genio dazu, sie zu veffassen, man werde dieselben
+
+nie genugbewundornkonnen«.
+
+DritterTag.
+
+1) Ζιι S. 5. Der ausgestellten Definition entspreohend‚
+wflrden wir, die Streeken mit s, die Zoiten mit t, die gleiehfbr-
+mige Genehwindigkeit mit o bezeichnend‚ sagon: εει · t. Die
+vier Axiome sind zu je zweien gepaart. Vorstehende Gleichung
+fflhrt, wenn mansur eino zweite Bewegung ι’ = ε’ · t' setzt, zu
+Axiom I und Π, wenn c= c' ist:
+
+AxiomI: s:s'=t:t'
+AxiomII: t2t'=s:s'
+
+ 
+
