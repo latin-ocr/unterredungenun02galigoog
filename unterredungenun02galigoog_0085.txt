@@ -1,0 +1,50 @@
+82 . Galileo Galilei.
+
+simpl. Und was mich betrifft,-wenn auch Heu· Saqredo f
+gut gerflstet ist, —- mir steigen wiederum die frilheron Schranken
+auf: donn wenn auch unsere Philosophen diesen Gegenstand in
+der Lehre vom Wurf bohandelt haben, so erinnere ioh mich
+doeh nieht, dass sie jone Ourven besohrieben hatten, sie be-
+zeichnen sie vielmehr nur sehr allgemein als krumme Limen,
+ausgenommen den senkreohton Fall. Und feruor, wenn das
+Wenige an Geometrio, das ioh dann und wann wahrend unserer
+Unterredungen aus dem Euclid erlernt habe, nieht zum Ver-
+standniss des Folgenden hinreioht, so warde ioh dio Thooreme
+wohl glaubig annehmen, aber nicht vtjllig erfassen kssnnen.
+
+Salv. Ihr werdet dann Dank wissen unserem Autor, der.
+als er mir einen Einblick in seina studio gestantem, da ich da-
+mals die Biicher des Apollonius nicht zur Hand hatte, zwei
+Haupteigensehaften jener Parabel ohne irgend welche Voraus-
+setzungen 9111111118, Eigensehaften, auf die wir uns in vorliegen-
+der Abhandlung stfltzen werden, die auch von Apollonius gut
+bewiesen sind, aber unter vielen anderen, die kennen zu lernen
+uns viel Zeit kosten wurdffi ieh aber hoffe unseren Weg zu
+kflrzen, wonn ioh die erste Eigenschaft sofort aus der einfaehen
+Erzeugung der Parabel herleite‚ und darauf unmittelbar den
+Beweis fur die zweite ansehh'esse. Zunaohst also die erste
+Eigensehaft: Man denke sich einen geraden Kegel mit der
+
+kreisfbrmigen Basis JBKC (Fig. 106)
+und mit dem Gipfel L. Eine Ebene
+parallel dor Seite LK schneide den
+Kegel und erzeuge den Parabol-
+sohnitt ΒΑΘ, dassen Basis B 0 'den
+Durohmesser JK des Kreises JBKO
+reohtwinklig schneidet, und es sei die
+Pa1·abelaxe parallel der Seite LK.
+Man nehme einen beliebigen Punkt
+F der Ourve ΒΓΑ und ziehe FE
+parallel zu BD. Ich behaupte, das
+K Quadrat von B D verhalte sich zum
+Quadrato von F E wie die Axe
+DA zum stuok ΑΕ. Durch
+¹den Punkt E denke man sich
+eine Ebene parallel dem Kreise
+
+J B K Ο gelegt‚ so wird dieselbe den Regel in einem Kreise
+schneiden‚ dassen Durohmesser GEH sein wird. Da nun zum
+Durohmesser JK des Kreises JBKO die Gerade BD senkreoht
+
+ 
+
